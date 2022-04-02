@@ -1,4 +1,4 @@
-## Anish Lakkapragada
+## Anish 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anish-lakkapragada&show_icons=true&)
