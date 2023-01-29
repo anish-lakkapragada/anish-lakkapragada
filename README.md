@@ -5,6 +5,5 @@
 
 ![Anish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anish-lakkapragada&hide_border=false)
 
-
 ![](https://komarev.com/ghpvc/?username=anish-lakkapragada)
 
